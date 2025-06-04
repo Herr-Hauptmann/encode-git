@@ -1,0 +1,5 @@
+1. Plava
+2. Svetlo plava
+3. Tamno plava
+4. Zelena
+5. Svetlo zelena
